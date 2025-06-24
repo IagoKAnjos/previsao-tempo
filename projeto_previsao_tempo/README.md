@@ -36,11 +36,8 @@ Para que o aplicativo funcione, você precisará de uma chave de API do OpenWeat
 3.  Vá para a seção 'API keys' no seu perfil.
 4.  Copie a chave gerada.
 
-Após obter sua chave, abra o arquivo `main.py` e substitua `"SUA_CHAVE_API_AQUI"` pela sua chave real:
+Após obter sua chave, abra o arquivo `main.py` e substitua `"CHAVE_API"` pela sua chave real:
 
-```python
-API_KEY = "SUA_CHAVE_API_AQUI"  # Substitua pela sua chave de API do OpenWeatherMap
-```
 
 ## Como Executar
 
